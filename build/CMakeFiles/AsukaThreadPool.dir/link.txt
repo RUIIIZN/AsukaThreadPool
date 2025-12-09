@@ -1,0 +1,2 @@
+/usr/bin/ar qc libAsukaThreadPool.a CMakeFiles/AsukaThreadPool.dir/ThreadPool/src/FixedThreadPool.cc.o CMakeFiles/AsukaThreadPool.dir/ThreadPool/src/CacheThreadPool.cc.o CMakeFiles/AsukaThreadPool.dir/ThreadPool/src/WorkStealingThreadPool.cc.o
+/usr/bin/ranlib libAsukaThreadPool.a

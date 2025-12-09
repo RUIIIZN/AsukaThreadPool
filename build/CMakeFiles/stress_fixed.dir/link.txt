@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/stress_fixed.dir/test/stress_fixed.cc.o -o ../bin/stress_fixed  libAsukaThreadPool.a 

@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/stress_cache.dir/test/stress_cache.cc.o -o ../bin/stress_cache  libAsukaThreadPool.a 

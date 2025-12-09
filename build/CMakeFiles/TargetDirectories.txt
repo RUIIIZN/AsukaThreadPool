@@ -1,0 +1,10 @@
+/home/ruizn/桌面/project/bymyself/MyThreadPool/build/CMakeFiles/AsukaThreadPool.dir
+/home/ruizn/桌面/project/bymyself/MyThreadPool/build/CMakeFiles/stress_fixed.dir
+/home/ruizn/桌面/project/bymyself/MyThreadPool/build/CMakeFiles/stress_cache.dir
+/home/ruizn/桌面/project/bymyself/MyThreadPool/build/CMakeFiles/stress_workstealing.dir
+/home/ruizn/桌面/project/bymyself/MyThreadPool/build/CMakeFiles/edit_cache.dir
+/home/ruizn/桌面/project/bymyself/MyThreadPool/build/CMakeFiles/rebuild_cache.dir
+/home/ruizn/桌面/project/bymyself/MyThreadPool/build/CMakeFiles/list_install_components.dir
+/home/ruizn/桌面/project/bymyself/MyThreadPool/build/CMakeFiles/install.dir
+/home/ruizn/桌面/project/bymyself/MyThreadPool/build/CMakeFiles/install/local.dir
+/home/ruizn/桌面/project/bymyself/MyThreadPool/build/CMakeFiles/install/strip.dir
